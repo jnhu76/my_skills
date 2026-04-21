@@ -25,7 +25,7 @@
 ## 目录结构
 
 ```text
-phenomenon_skill_pack/
+phenomenon_skill/
 ├── README.md
 ├── general/
 │   └── skill.md

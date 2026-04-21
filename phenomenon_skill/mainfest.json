@@ -1,0 +1,11 @@
+{
+  "name": "phenomenon_skill",
+  "version": "0.1.0",
+  "description": "现象驱动分析技能",
+  "modes": ["general", "computing_debug"],
+  "has_python_tools": true,
+  "entrypoints": {
+    "general": "general/skill.md",
+    "computing_debug": "computing_debug/skill.md"
+  }
+}
